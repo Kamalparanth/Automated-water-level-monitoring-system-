@@ -4,7 +4,7 @@ If the distance between sensor and water is greater than 10cm, the motor will on
 
 # Source Code
 
-int relaypin = 8; 
+int relaypin = 8;
 int trigPin = 9;
 int echoPin = 10;
 long duration;
